@@ -1,0 +1,26 @@
+# Transform Traditional Factors for Stock-Selection Model
+**Stage:** Problem Framing & Scoping 
+## Problem Statement
+This project focuses on building a factor-based stock selection model using several classic factors, such as market value, price momentum, and turnover. The goal is to systematically identify stocks with favorable characteristics that are more likely to deliver excess returns compared to the market benchmark. Traditional stock picking often relies on subjective judgment, which can introduce biases and inconsistencies. By transforming well-established factors into quantifiable signals, this project provides a more structured and evidence-based framework for equity selection.
+
+This problem matters because in today’s highly competitive financial markets, investors need reliable methods to generate consistent alpha. A factor-driven approach not only improves transparency and repeatability in the investment process, but also helps investors better manage risk by diversifying across different styles of factors. Ultimately, the project seeks to demonstrate how classic financial indicators can be transformed into a systematic model that enhances decision-making and creates tangible value for investment strategies.
+
+## Stakeholder & User
+The primary stakeholders for this project are portfolio managers, quantitative analysts, and institutional investors who aim to enhance their equity selection process. These users care about generating superior risk-adjusted returns, reducing reliance on discretionary judgment, and improving the robustness of their investment strategies. They are particularly interested in models that can be validated historically, scaled across multiple stocks, and integrated into larger portfolio management systems.
+
+For portfolio managers, the key concern is how the factor model contributes to performance and risk management. For quantitative analysts, the focus lies in the methodology, data transformations, and statistical validity of the factors. Institutional investors care about the long-term consistency and scalability of the strategy, as well as how it aligns with broader investment objectives. By addressing these needs, the project provides actionable insights and tools that can directly support investment decision-making.
+
+
+## Useful Answer & Decision
+<Descriptive / Predictive / Causal; metric; artifact to deliver>
+## Assumptions & Constraints
+<Bullets: data availability, capacity, latency, compliance, etc.>
+## Known Unknowns / Risks
+<Bullets: what’s uncertain; how you’ll test or monitor>
+## Lifecycle Mapping
+Goal → Stage → Deliverable
+- Figure out what we are doing → Problem Framing & Scoping (Stage 01) → project summary&stakeholder personna
+-Setup tool → Stage 02: Tooling Setup →config.py&.env
+- ...
+## Repo Plan
+/data/, /src/, /notebooks/, /docs/ ; cadence for updates
