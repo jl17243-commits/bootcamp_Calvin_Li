@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Transform Traditional Factors for Stock-Selection Model
 **Stage:** Problem Framing & Scoping 
 ## Problem Statement
@@ -5,6 +6,12 @@ This project focuses on building a factor-based stock selection model using seve
 
 This problem matters because in today’s highly competitive financial markets, investors need reliable methods to generate consistent alpha. A factor-driven approach not only improves transparency and repeatability in the investment process, but also helps investors better manage risk by diversifying across different styles of factors. Ultimately, the project seeks to demonstrate how classic financial indicators can be transformed into a systematic model that enhances decision-making and creates tangible value for investment strategies.
 
+=======
+# Transform traditional factors to build factor-based stock selection model
+**Stage:** Problem Framing & Scoping (Stage 01)
+## Problem Statement
+This project focuses on building a factor-based stock selection model using several classic factors, such as market value, price momentum, and turnover. 
+>>>>>>> 9f0b558 (Upload homework8,9,10a&b,project)
 ## Stakeholder & User
 The primary stakeholders for this project are portfolio managers, quantitative analysts, and institutional investors who aim to enhance their equity selection process. These users care about generating superior risk-adjusted returns, reducing reliance on discretionary judgment, and improving the robustness of their investment strategies. They are particularly interested in models that can be validated historically, scaled across multiple stocks, and integrated into larger portfolio management systems.
 
@@ -19,8 +26,17 @@ For portfolio managers, the key concern is how the factor model contributes to p
 <Bullets: what’s uncertain; how you’ll test or monitor>
 ## Lifecycle Mapping
 Goal → Stage → Deliverable
+<<<<<<< HEAD
 - Figure out what we are doing → Problem Framing & Scoping (Stage 01) → project summary&stakeholder personna
 -Setup tool → Stage 02: Tooling Setup →config.py&.env
 - ...
+=======
+- Find out what we are doing → Problem Framing & Scoping (Stage 01) → Project Summary & Stakeholder Personna
+- Setup tools → Stage 02: Tooling Setup → .env & .gitignore
+- Setup utility function → Stage03: Python Fundamentals →.utils.py
+- Acquire data and save it →Stage04&05 Data Acquisition & Data Storage →Raw Data
+- Remove NA and outliers → Stage06&07 Data prepocessing & Outliers analysis → processed data & analysis chart
+- Explore data → Stage08 Exploratory Data Analysis(EDA) → visualizations &Statistical summaries
+>>>>>>> 9f0b558 (Upload homework8,9,10a&b,project)
 ## Repo Plan
 /data/, /src/, /notebooks/, /docs/ ; cadence for updates
