@@ -2,3 +2,6 @@
 __pycache__/ 
 .env 
 class_materials 
+/data/
+/project/data/
+*.sas7bdat
