@@ -1,0 +1,10 @@
+2025-08-29 01:54:21,115 | INFO | Folders ready at C:\Users\Bobli\bootcamp_Calvin_Li\homework\Stage15\stage15_demo
+2025-08-30 15:27:42,444 | INFO | Folders ready at C:\Users\Bobli\bootcamp_Calvin_Li\homework\Stage15\stage15_demo
+2025-08-30 15:56:42,899 | ERROR | No such comm target registered: jupyter.widget.control
+2025-08-30 15:56:42,902 | WARNING | No such comm: a966a191-a30d-4678-8a93-dd5628100911
+2025-08-30 15:59:49,881 | ERROR | No such comm target registered: jupyter.widget.control
+2025-08-30 15:59:49,883 | WARNING | No such comm: ca30500e-0a2a-45fa-acd1-ec6ae8df7e49
+2025-08-30 16:23:08,056 | INFO | Pipeline ready.
+2025-08-30 16:28:46,732 | INFO | Use --run-all to execute the full demo pipeline.
+2025-08-30 17:08:18,588 | ERROR | No such comm target registered: jupyter.widget.control
+2025-08-30 17:08:18,592 | WARNING | No such comm: d51e7256-9f3d-4f2b-b539-cd04d7e6658c
